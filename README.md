@@ -1,1 +1,1 @@
-Test Test
+Hi!  The goal of this assignment was to create a password genrerator using javascript.  The primary factor in making the generator work is a javascript function.  When you open the page, and you click "genreate password" you will get a prompt asking how long you want the password to be.  You will then be asked a series of questions about what characters you would like in your password.  After all of this, a randomly generated password will be given to you in the password box.  You are able to generate as man passwords as you would like.  
